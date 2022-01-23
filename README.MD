@@ -1,0 +1,1 @@
+Prolog programs written following along [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=online)
